@@ -12,5 +12,5 @@ docker-compose up kafka zookeeper
 
 For example redis, postgres
 ```shell script
-docker-compose up redis postgres
+docker-compose up redis postgis
 ```
